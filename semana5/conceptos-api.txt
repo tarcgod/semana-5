@@ -1,0 +1,3 @@
+1.lo que hace la ruta es escribir un mensage y contestarlo de nuevo en un archivo json
+
+2.podria servir para Reportes de infraestructura, Alertas de servicios públicos, Buzón ciudadano

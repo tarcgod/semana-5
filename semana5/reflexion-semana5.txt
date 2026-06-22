@@ -1,0 +1,7 @@
+Las APIs actúan como puentes estandarizados que permiten a diferentes aplicaciones
+ciudadanas e instituciones conectar sus sistemas y centralizar la información de manera
+automática. Gracias a ellas, cuando un vecino reporta un problema —como un daño en las
+calles— desde una aplicación móvil comunitaria, los datos estructurados pueden enviarse al
+instante y de forma organizada hacia bases de datos compartidas, tableros de resultados o
+sistemas de alertas locales, evitando duplicados y facilitando que la información sea legible,
+segura y accesible para cualquier otra herramienta que necesite consumirla en tiempo real.
